@@ -55,5 +55,6 @@
   "config": {
     "runtime": "napi",
     "target": 3
-  }
+  },
+  "os": ["win32"]
 }
